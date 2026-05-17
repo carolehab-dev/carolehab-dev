@@ -1,5 +1,4 @@
 <div align="center">
-<br>
 <!-- Animated Title -->
 <p align="center">
   <img 
@@ -18,7 +17,7 @@
   <img 
     src="./Assets/My%20Zone.png" 
     alt="Personal Zone Banner" 
-    width="100%"
+    width="90%"
   />
 </p>
 
