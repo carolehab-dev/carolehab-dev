@@ -34,9 +34,4 @@
 <br/>
 
 
-
-<p align="center">
-  <sub>⚡ Built with passion · Powered by caffeine · Deployed with pride</sub>
-</p>
-
 </div>
