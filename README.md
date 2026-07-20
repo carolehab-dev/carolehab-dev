@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Title -->
+<!-- Title: types "Carol Ehab", wipes, then types "Software Engineer" -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=Carol+%7C+Software+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Carol+Ehab;Software+Engineer"
     alt="Typing SVG"
   />
 </p>
@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/.NET%20Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Ain%20Shams%20University-CS%20Graduate-1f2937?style=flat-square" />
   <img src="https://img.shields.io/badge/ITI-Web%20Dev%20%26%20BI%20Track-b91c1c?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#professional-journey">Journey</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#technologies">Technologies</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 <br/>
@@ -27,7 +35,7 @@
 
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -58,11 +66,29 @@ Software engineer with a background in .NET development, robotics, and web syste
 
 ## Achievements
 
-| Achievement | Context |
-|---|---|
-| 🥉 3rd Place — NanoCubeSat Competition | Military Technical College, international competition (against teams from Turkey, Italy, Egypt, Saudi Arabia, Iran) |
-| Speaker/Contributor — World Space Week | Presented on space technology topics |
-| Technical Head — RoboTech FCIS ASU | Led technical direction and mentored team members |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <b>🥉 3rd Place</b><br/>
+  NanoCubeSat Competition<br/>
+  <sub>Military Technical College — international teams (Turkey, Italy, Egypt, Saudi Arabia, Iran)</sub>
+</td>
+<td align="center" width="33%">
+  <b>World Space Week</b><br/>
+  Speaker & Contributor<br/>
+  <sub>Presented on space technology topics</sub>
+</td>
+<td align="center" width="33%">
+  <b>Technical Head</b><br/>
+  RoboTech FCIS ASU<br/>
+  <sub>Led technical direction and mentored team members</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -83,8 +109,15 @@ Software engineer with a background in .NET development, robotics, and web syste
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+**Microsoft Ecosystem**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=microsoftdynamics365&logoColor=white" />
 </p>
 
 **Databases & Data**
@@ -115,19 +148,11 @@ Software engineer with a background in .NET development, robotics, and web syste
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default&hide_border=true" width="48%" />
-</div>
-
----
 
 ## Contact
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:carolehab11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carolehab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/carolehab-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
