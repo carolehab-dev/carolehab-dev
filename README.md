@@ -73,7 +73,7 @@ Software engineer with a background in .NET development, robotics, and web syste
 <td align="center" width="33%">
   <b>🥉 3rd Place</b><br/>
   NanoCubeSat Competition<br/>
-  <sub>Military Technical College — international teams (Turkey, Italy, Egypt, Saudi Arabia, Iran)</sub>
+  <sub>Military Technical College — international teams (Turkey, Egypt, China)</sub>
 </td>
 <td align="center" width="33%">
   <b>World Space Week</b><br/>
