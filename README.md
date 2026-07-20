@@ -3,7 +3,7 @@
 <!-- Title: types "Carol Ehab", wipes, then types "Software Engineer" -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Carol+Ehab;Software+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&height=70&lines=Carol+Ehab+Anwar+Halim;Software+Engineer"
     alt="Typing SVG"
   />
 </p>
