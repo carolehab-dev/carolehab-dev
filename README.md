@@ -45,13 +45,7 @@ Software engineer with a background in .NET development, robotics, and web syste
 
 ## Professional Journey
 
-<p align="center">
-  <img 
-    src="./Assets/Whole%20Journey.png"
-    alt="Career Timeline"
-    width="95%"
-  />
-</p>
+
 
 | Stage | Details |
 |---|---|
